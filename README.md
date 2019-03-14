@@ -3,11 +3,12 @@
 CS-GO
 
 Analisa data yang di-enkapsulasi :
-Koordinat posisi(x,y)
-1. id player
-2. Shoot
-3. Kill
-4. Killed
-5. Boom
-6. HP Player
-7. Notification
+
+1. Koordinat posisi(x,y)
+2. id player
+3. Shoot
+4. Kill
+5. Killed
+6. Boom
+7. HP Player
+8. Notification
